@@ -9,6 +9,8 @@ from pymongo import MongoClient
 
 
 
+
+
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
