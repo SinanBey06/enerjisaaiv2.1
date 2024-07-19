@@ -4,8 +4,7 @@ from flask_cors import CORS
 import os
 import time
 from pymongo import MongoClient
-
-
+# deneme
 
 
 
